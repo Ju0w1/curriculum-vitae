@@ -58,4 +58,4 @@ Apasionado programador, versátil y autodidacta, permitiéndome desempeñarme en
 
 ---
 
-&copy; 2024 Juan Pablo Peculio Donato
+&copy; 2025 Juan Pablo Peculio Donato
