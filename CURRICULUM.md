@@ -20,7 +20,7 @@ Apasionado programador, versátil y autodidacta, permitiéndome desempeñarme en
 
 ### FORMACIÓN
 
-| **FORMACIÓN** | **DESCRIPCION** |
+| **FORMACIÓN** | **DESCRIPCIÓN** |
 |---------------|--|
 | **Tecnólogo en informática**<br><em>UTEC - Paysandú</em><br><strong>11/2024</strong> | Me gradué como Tecnólogo en Informática. Durante esta carrera, adquirí conocimientos en programación, gestión de proyectos de TI, sistemas, bases de datos, habilidades blandas, entre muchas otras herramientas que me permiten crecer tanto personal como profesionalmente.<br>- **Tesis:** "Simulador de conducción bajo los efectos del alcohol": Un proyecto que me sacó de mi zona de confort, donde mi equipo y yo nos desempeñamos excepcionalmente utilizando tecnologías como visores de realidad virtual, Unity y periféricos poco comunes como un volante, pedales y una palanca de cambios. Logramos destacar con el proyecto, inspirando a futuras generaciones a continuar su desarrollo. |
 | **Técnico informático**<br><em>Instituto Tecnológico Superior De Paysandú (ITSP) - Paysandú</em><br><strong>12/2019</strong> | |
@@ -58,4 +58,4 @@ Apasionado programador, versátil y autodidacta, permitiéndome desempeñarme en
 
 ---
 
-&copy; 2025 Juan Pablo Peculio Donato
+&copy; 2025 Juan Pablo Peculio Donato - [Creado con markdown](https://github.com/Ju0w1/curriculum-vitae)
